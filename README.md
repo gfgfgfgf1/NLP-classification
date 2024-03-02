@@ -21,7 +21,7 @@ Description - текст новости
 **Признание**
 
 Благодарю AG за предоставленные данные и людей, чей вклад сделал этот корпус доступным для образования, творчества и научных исследований.
-http://www.di.unipi.it /~gulli/AG_corpus_of_news_articles.html
+http://www.di.unipi.it/~gulli/AG_corpus_of_news_articles.html
 
 
 ## Project structure:
